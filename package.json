@@ -1,0 +1,5 @@
+{
+    "name": "@arcanis/yarn-create-hello",
+    "license": "MIT",
+    "bin": "index.js"
+}
